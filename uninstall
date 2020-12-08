@@ -1,0 +1,7 @@
+#!/bin/bash
+
+pip uninstall -y lina
+pip uninstall -y sirius
+pip uninstall -y cad
+pip uninstall -y parade
+pip uninstall -y angie-sirius
